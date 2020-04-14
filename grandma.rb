@@ -1,4 +1,4 @@
-input_phrase = "Hi Nana, how are you?"
+input_phrase = "I LOVE YOU GRANDMA!"
 
 def speak_to_grandma(phrase)  
   if phrase == "I LOVE YOU GRANDMA!"
