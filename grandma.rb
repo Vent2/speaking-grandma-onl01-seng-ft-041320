@@ -1,4 +1,4 @@
-def speak_to_grandma()
+def speak_to_grandma(speak)
   if () == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif speak == speak.upcase
