@@ -1,4 +1,8 @@
-# Write a speak_to_grandma method.
+def speak_to_grandma(speak)
+  if speak == speak
+    return "HUH?! SPEAK UP, SONNY!"
+  elsif speak == speak.uppercase
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
