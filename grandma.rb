@@ -7,6 +7,7 @@ else speak == ""
   return "HUH?! SPEAK UP, SONNY!"
 end
 
+speak_to_granda("HI")
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
